@@ -3,15 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-单细胞 documentation
+单细胞分析 Notebook
 ====================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 
 .. toctree::
 
-   docs/01.+AnData数据结构+f42be259-849d-43ee-bd34-e610de1f0ede
+   docs/index
 
